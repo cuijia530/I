@@ -1,1 +1,4 @@
 说明文档
+vscode 好用插件推荐
+📝 语言支持与翻译工具
+1. Chinese (Simplified) Language Pack for Visual Studio Code
